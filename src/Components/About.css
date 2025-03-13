@@ -1,0 +1,13 @@
+#About_Main{
+    width: 60%;
+    margin-top: 2%;
+    margin-left: 20%;
+    height: 500px;
+    background-color: blueviolet;
+    border: black 3px solid;
+    border-radius: 20px;
+    text-align: center;
+    font-size: x-large;
+    color: white;
+    font-family: cursive;
+}

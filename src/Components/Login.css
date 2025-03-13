@@ -1,0 +1,36 @@
+#User_Form{
+    width: 50%;
+    margin-left: 25%;
+    background-color: blueviolet;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: xx-large;
+    border: 3px rgb(35,35,35) solid;
+    border-radius: 50px;
+}
+
+#User_Form input{
+    width: 300px;
+    height: 40px;
+    border: 2px gray solid;
+    border-radius: 30px;
+    text-align: center;
+}
+
+#User_Form input ::placeholder{
+    font-size: larger;
+    color: black;
+}
+
+#select{
+    width: 100px !important;
+    height: 100px;
+    margin-bottom: 5%;
+    font-size: large;
+    text-align: center;
+}
+#User_Main{
+    margin-left: 5%;
+    font-family: cursive;
+}
