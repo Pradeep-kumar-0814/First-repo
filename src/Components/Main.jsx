@@ -41,6 +41,16 @@ function Main({setCartItems}) {
           <Product props={Product4} changeFunction={addToCart}/>
           <br/>
           <Product props={Product5} changeFunction={addToCart}/>
+          <br/>
+          <Product props={Product1} changeFunction={addToCart}/>
+          <br/>
+          <Product props={Product2} changeFunction={addToCart}/>
+          <br/>
+          <Product props={Product3} changeFunction={addToCart}/>
+          <br/>
+          <Product props={Product4} changeFunction={addToCart}/>
+          <br/>
+          <Product props={Product5} changeFunction={addToCart}/>
           
          </div>
               <div id='main_image'>
